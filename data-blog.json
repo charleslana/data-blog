@@ -21,6 +21,6 @@
     "category": "git",
     "tags": ["git", "github"],
     "title": "Comandos básicos do Git, veja!",
-    "description": "<p>Veja abaixo, comandos do git básicos para processos de desenvolvimento.</p><br/><br/><img src='https://i.imgur.com/XnpomWh.png' width='100%'/><br/><br/><h3>Criar uma SSH para o seu git</h3><br/><p>No Terminal</p><br/><pre><code>ssh-keygen -t rsa -b 4096 -C 'seuemail@email.com'</code></pre>"
+    "description": "<p>Veja abaixo, comandos do git básicos para processos de desenvolvimento.</p><br/><br/><img src='https://i.imgur.com/XnpomWh.png' width='100%'/><br/><br/><h3>Criar uma SSH para o seu git</h3><br/><p>No Terminal</p><br/><pre><code>ssh-keygen -t rsa -b 4096 -C 'seuemail@email.com'</code></pre><br/><h3>Clonar projeto</h3><br/><p>Selecionar a opção SSH</p><br/><pre><code>git clone git@github.com:usuario/test.git</code></pre><br/><h3>Criar uma branch</h3><br/><pre><code>git init</code></pre><br/><pre><code>git add README.md</code></pre>"
   }
 ]
