@@ -20,7 +20,7 @@
     "date": "2022-01-22T00:00:00",
     "category": "git",
     "tags": ["git", "github"],
-    "title": "Title 3",
-    "description": "Description 3"
+    "title": "Comandos básicos do Git, veja!",
+    "description": "<p>Veja abaixo, comandos do git básicos para processos de desenvolvimento.</p><br/><br/><img src='https://i.imgur.com/XnpomWh.png' width='100%'/><br/><br/><h3>Criar uma SSH para o seu git</h3><br/><p>No Terminal</p><br/><pre><code>ssh-keygen -t rsa -b 4096 -C 'seuemail@email.com'</code></pre>"
   }
 ]
