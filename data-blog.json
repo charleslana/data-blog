@@ -12,8 +12,8 @@
     "date": "2022-01-22T00:00:00",
     "category": "dev",
     "tags": ["vscode", "ambiente de desenvolvimento", "dev"],
-    "title": "Title 2",
-    "description": "Description 2"
+    "title": "Melhores extensões para Ambiente de Desenvolvimento Integrado no VS Code",
+    "description": "<p>Live Server</p><br/><br/><img src='https://i.imgur.com/cICLQ3K.png' width='100%'/><br/><br/><p>Essa extensão é praticamente obrigatória para você que curte o ambiente de front-end.</p><br/><p>Com o Live Server, é possível fazer alterações no editor de código, alternar para o navegador e atualizar para ver as alterações sem se perder alternando entre janelas.</p><br/><p>De forma ainda mais simples de explicar, digamos que o seu navegador é atualizado automaticamente sempre que você faz alguma alteração de código.</p>"
   },
   {
     "id": 3,
